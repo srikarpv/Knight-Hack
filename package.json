@@ -1,0 +1,25 @@
+{
+  "name": "somename",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjb272/SpeechAnalysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjb272/SpeechAnalysis/issues"
+  },
+  "homepage": "https://github.com/tjb272/SpeechAnalysis#readme"
+}
